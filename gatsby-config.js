@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "quick tl;dr",
+    title: "qTLDR",
     footer: "qtldr.com",
   },
   plugins: [],
+  pathPrefix: "qtldr.github.io",
 };
